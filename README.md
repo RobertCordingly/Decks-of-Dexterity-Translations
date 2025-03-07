@@ -1,1 +1,1 @@
-Here is you can help Translate Decks of Dexterity!
+Here you can help Translate Decks of Dexterity!
