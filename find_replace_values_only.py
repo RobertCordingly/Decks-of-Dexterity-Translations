@@ -1,7 +1,7 @@
 import json
 
-find = "FP"
-replace = "PF"
+find = "CDM"
+replace = "MDC"
 
 source_file = "./es.json"
 
