@@ -4413,5 +4413,18 @@
     "Fragile Antiques": "Fragile Antiques",
     "All Legendary cards are Fragile.": "All Legendary cards are Fragile.",
     "All Legendary rarity cards have Fragile and are destroyed when played.": "All Legendary rarity cards have Fragile and are destroyed when played.",
-    "Nuclear Fusion": "Nuclear Fusion"
+    "Nuclear Fusion": "Nuclear Fusion",
+    "Type: Normal\\nDamage: 1X": "Type: Normal\\nDamage: 1X",
+    "Type: Enraged\\nDamage: 1X\\nEffect: Fires Back": "Type: Enraged\\nDamage: 1X\\nEffect: Fires Back",
+    "Type: BLASTING\\nDamage: 1X\\nEffect: Heatseekers": "Type: BLASTING\\nDamage: 1X\\nEffect: Heatseekers",
+    "Type: Weak Point\\nDamage: 1.5X": "Type: Weak Point\\nDamage: 1.5X",
+    "Type: EXTREME ENRAGE\\nDamage: 1X\\nEffect: No Turns": "Type: EXTREME ENRAGE\\nDamage: 1X\\nEffect: No Turns",
+    "Type: Draining\\nDamage: -0.5X": "Type: Draining\\nDamage: -0.5X",
+    "Type: Immune\\nDamage: 0X": "Type: Immune\\nDamage: 0X",
+    "Type: In Love\\nDamage: 0.2X or 1.2X\\nEffect: Get Close": "Type: In Love\\nDamage: 0.2X or 1.2X\\nEffect: Get Close",
+    "Type: Sheild Reduced\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Type: Shield Reduced\\nDamage: 0.5X\\nEffect: Reduce to Weaken",
+    "Type: Sheild Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Type: Shield Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken",
+    "Type: Petrified\\nDamage: 0.33X": "Type: Petrified\\nDamage: 0.33X",
+    "Type: Energized\\nDamage: 1X\\nEffect: Teleports": "Type: Energized\\nDamage: 1X\\nEffect: Teleports",
+    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption"
 }
