@@ -4418,15 +4418,15 @@
     "Set your deckbuilding skills to the test! Complete challenges to gain Hex and level up! Level up increases the number of Corruption cards you gain making the game more challenging. Try to achieve the highest level you can!": "¡Pon a prueba tus habilidades de construcción de mazos! Completa desafíos para obtener Hex y subir de nivel. Al subir de nivel, aumentas la cantidad de cartas de Corrupción que recibes, lo que hace el juego más desafiante. ¡Intenta alcanzar el nivel más alto posible!",
     "Type: Normal\\nDamage: 1X": "Tipo: Normal\\nDaño: 1X",
     "Type: Enraged\\nDamage: 1X\\nEffect: Fires Back": "Tipo: Enfurecido\\nDaño: 1X\\nEfecto: Contraataca",
-    "Type: BLASTING\\nDamage: 1X\\nEffect: Heatseekers": "Tipo: Explosivo\\nDaño: 1X\\nEfecto: Buscadores de calor",
+    "Type: BLASTING\\nDamage: 1X\\nEffect: Heatseekers": "Tipo: Explosivo\\nDaño: 1X\\nEfecto: Buscadores de Calor",
     "Type: Weak Point\\nDamage: 1.5X": "Tipo: Punto Débil\\nDaño: 1.5X",
-    "Type: EXTREME ENRAGE\\nDamage: 1X\\nEffect: No Turns": "Tipo: Furia Extrema\\nDaño: 1X\\nEfecto: Sin turnos",
+    "Type: EXTREME ENRAGE\\nDamage: 1X\\nEffect: No Turns": "Tipo: Furia Extrema\\nDaño: 1X\\nEfecto: Sin Turnos",
     "Type: Draining\\nDamage: -0.5X": "Tipo: Drenante\\nDaño: -0.5X",
     "Type: Immune\\nDamage: 0X": "Tipo: Inmune\\nDaño: 0X",
     "Type: In Love\\nDamage: 0.2X or 1.2X\\nEffect: Get Close": "Tipo: Enamorado\\nDaño: 0.2X o 1.2X\\nEfecto: Acércate",
-    "Type: Sheild Reduced\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Reducido\\nDaño: 0.5X\\nEfecto: Reduce para debilitar",
-    "Type: Sheild Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Potenciado\\nDaño: 0.5X\\nEfecto: Reduce para debilitar",
+    "Type: Sheild Reduced\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Reducido\\nDaño: 0.5X\\nEfecto: Reduce para Debilitar",
+    "Type: Sheild Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Potenciado\\nDaño: 0.5X\\nEfecto: Reduce para Debilitar",
     "Type: Petrified\\nDamage: 0.33X": "Tipo: Petrificado\\nDaño: 0.33X",
-    "Type: Energized\\nDamage: 1X\\nEffect: Teleports": "Tipo: Energizado\\nDaño: 1X\\nEfecto: Se teletransporta",
-    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Tipo: Corrompido\\nDaño: 1X\\nEfecto: Propaga la corrupción"
+    "Type: Energized\\nDamage: 1X\\nEffect: Teleports": "Tipo: Energizado\\nDaño: 1X\\nEfecto: Se Teletransporta",
+    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Tipo: Corrompido\\nDaño: 1X\\nEfecto: Propaga la Corrupción"
 }
