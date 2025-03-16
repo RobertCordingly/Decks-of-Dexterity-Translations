@@ -4415,5 +4415,18 @@
     "Copyright 2018 - 2025 - Coded Games": "Direitos Autorais 2018 - 2025 - Coded Games",
     "Start your journey.": "Comece sua jornada.",
     "Challenges are in your Inventory. Build a deck to complete them and level up!": "Os desafios estão no seu Inventário. Monte um deck para completá-los e subir de nível!",
-    "Set your deckbuilding skills to the test! Complete challenges to gain Hex and level up! Level up increases the number of Corruption cards you gain making the game more challenging. Try to achieve the highest level you can!": "Coloque suas habilidades de construção de deck à prova! Complete desafios para ganhar Hex e subir de nível! Ao subir de nível, aumenta-se o número de cartas de Corrupção que você recebe, tornando o jogo mais desafiador. Tente alcançar o nível mais alto que puder!"
+    "Set your deckbuilding skills to the test! Complete challenges to gain Hex and level up! Level up increases the number of Corruption cards you gain making the game more challenging. Try to achieve the highest level you can!": "Coloque suas habilidades de construção de deck à prova! Complete desafios para ganhar Hex e subir de nível! Ao subir de nível, aumenta-se o número de cartas de Corrupção que você recebe, tornando o jogo mais desafiador. Tente alcançar o nível mais alto que puder!",
+    "Type: Normal\\nDamage: 1X": "Tipo: Normal\\nDano: 1X",
+    "Type: Enraged\\nDamage: 1X\\nEffect: Fires Back": "Tipo: Enraivecido\\nDano: 1X\\nEfeito: Contra-ataca",
+    "Type: BLASTING\\nDamage: 1X\\nEffect: Heatseekers": "Tipo: Explosivo\\nDano: 1X\\nEfeito: Rastreadores de Calor",
+    "Type: Weak Point\\nDamage: 1.5X": "Tipo: Ponto Fraco\\nDano: 1.5X",
+    "Type: EXTREME ENRAGE\\nDamage: 1X\\nEffect: No Turns": "Tipo: Fúria Extrema\\nDano: 1X\\nEfeito: Sem Turnos",
+    "Type: Draining\\nDamage: -0.5X": "Tipo: Drenante\\nDano: -0.5X",
+    "Type: Immune\\nDamage: 0X": "Tipo: Imune\\nDano: 0X",
+    "Type: In Love\\nDamage: 0.2X or 1.2X\\nEffect: Get Close": "Tipo: Apaixonado\\nDano: 0.2X ou 1.2X\\nEfeito: Se Aproxime",
+    "Type: Sheild Reduced\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Reduzido\\nDano: 0.5X\\nEfeito: Reduz para Enfraquecer",
+    "Type: Sheild Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Potencializado\\nDano: 0.5X\\nEfeito: Reduz para Enfraquecer",
+    "Type: Petrified\\nDamage: 0.33X": "Tipo: Petrificado\\nDano: 0.33X",
+    "Type: Energized\\nDamage: 1X\\nEffect: Teleports": "Tipo: Energizado\\nDano: 1X\\nEfeito: Se Teletransporta",
+    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Tipo: Corrompido\\nDano: 1X\\nEfeito: Espalha a Corrupção"
 }
