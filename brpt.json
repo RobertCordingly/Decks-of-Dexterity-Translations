@@ -4427,5 +4427,19 @@
     "Type: Sheild Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Tipo: Escudo Potencializado\\nDano: 0.5X\\nEfeito: Reduz para Enfraquecer",
     "Type: Petrified\\nDamage: 0.33X": "Tipo: Petrificado\\nDano: 0.33X",
     "Type: Energized\\nDamage: 1X\\nEffect: Teleports": "Tipo: Energizado\\nDano: 1X\\nEfeito: Se Teletransporta",
-    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Tipo: Corrompido\\nDano: 1X\\nEfeito: Espalha a Corrupção"
+    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Tipo: Corrompido\\nDano: 1X\\nEfeito: Espalha a Corrupção",
+
+    "%1% to end your turn.": "%1% para encerrar seu turno.",
+    "%1% to fire!": "%1% para atirar!",
+    "%1% to pull bullets.": "%1% para puxar balas.",
+    "%1% to repel bullets.": "%1% para repelir balas.",
+    "%1% to reflect bullets.": "%1% para refletir balas.",
+    "%1% to charge bullets.": "%1% para carregar balas.",
+    "%1% to sabotage bullets.": "%1% para sabotar balas.",
+    "%1% to Play": "%1% para jogar",
+    "%1% to swing your weapon!": "%1% para balançar sua arma!",
+    "%1% to throw!": "%1% para arremessar!",
+    "%1% to throw a cleaver.": "%1% para arremessar uma faca.",
+    "%1% to throw Cleavers.": "%1% para arremessar facas.",
+    "%1% to Continue...": "%1% para continuar..."
 }
