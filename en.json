@@ -4426,5 +4426,20 @@
     "Type: Sheild Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken": "Type: Shield Powered\\nDamage: 0.5X\\nEffect: Reduce to Weaken",
     "Type: Petrified\\nDamage: 0.33X": "Type: Petrified\\nDamage: 0.33X",
     "Type: Energized\\nDamage: 1X\\nEffect: Teleports": "Type: Energized\\nDamage: 1X\\nEffect: Teleports",
-    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption"
+    "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption": "Type: Corrupt\\nDamage: 1X\\nEffect: Spreads Corruption",
+
+    "%1% to end your turn." : "%1% to end your turn.",
+    "%1% to fire!" : "%1% to fire!",
+    "%1% to pull bullets." : "%1% to pull bullets.",
+    "%1% to repel bullets." : "%1% to repel bullets.",
+    "%1% to reflect bullets." : "%1% to reflect bullets.",
+    "%1% to charge bullets." : "%1% to charge bullets.",
+    "%1% to sabotage bullets." : "%1% to sabotage bullets.",
+    "%1% to Play": "%1% to Play",
+    "%1% to swing your weapon!": "%1% to swing your weapon!",
+    "%1% to throw!" : "%1% to throw!",
+    "%1% to throw a cleaver." : "%1% to throw a cleaver.",
+    "%1% to throw Cleavers." : "%1% to throw Cleavers.",
+    "%1% to Continue..." : "%1% to Continue..."
+
 }
