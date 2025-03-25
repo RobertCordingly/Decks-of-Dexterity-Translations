@@ -3741,7 +3741,7 @@
     "1.25": "1.25",
     "1.5": "1.5",
     "1.9": "1.9",
-    "Click/Tap Movement:": "Movimiento con Clic/Toque:",
+    "Click/Tap Movement:": "Movimiento con\\nClic/Toque:",
     "Touch Movement: Player will move toward your mouse/finger when clicking/tapping.": "Movimiento Táctil: El jugador se moverá hacia donde hagas clic o toques con el dedo.",
     "Colorblind Mode:": "Modo Daltónico:",
     "Change how Power Cells are drawn to make the game more accessible to the colorbind.": "Cambia cómo se representan los Nodos para hacer el juego más accesible para daltónicos.",
