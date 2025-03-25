@@ -4441,6 +4441,9 @@
     "%1% to throw!" : "%1% to throw!",
     "%1% to throw a cleaver." : "%1% to throw a cleaver.",
     "%1% to throw Cleavers." : "%1% to throw Cleavers.",
-    "%1% to Continue..." : "%1% to Continue..."
+    "%1% to Continue..." : "%1% to Continue...",
+
+    "EXCHANGE": "EXCHANGE",
+    "NEGOTIATE": "NEGOTIATE"
 
 }

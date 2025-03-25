@@ -4442,5 +4442,8 @@
     "%1% to throw!": "%1% para arremessar!",
     "%1% to throw a cleaver.": "%1% para arremessar uma faca.",
     "%1% to throw Cleavers.": "%1% para arremessar facas.",
-    "%1% to Continue...": "%1% para continuar..."
+    "%1% to Continue...": "%1% para continuar...",
+
+    "EXCHANGE": "INTERCÂMBIO",
+    "NEGOTIATE": "NEGOCIAR"
 }
