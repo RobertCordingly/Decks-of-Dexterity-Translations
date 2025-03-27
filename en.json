@@ -4444,6 +4444,12 @@
     "%1% to Continue..." : "%1% to Continue...",
 
     "EXCHANGE": "EXCHANGE",
-    "NEGOTIATE": "NEGOTIATE"
+    "NEGOTIATE": "NEGOTIATE",
+
+    "%1%\\nfor more info!": "%1%\\nfor more info!",
+    "%1%\\nfor more info.": "%1%\\nfor more info.",
+    "%1% on a card in\\nhand to use.": "%1% on a card in\\nhand to use.",
+    "%1% for more details.": "%1% for more details.",
+    "%1% to Inspect this!": "%1% to Inspect this!"
 
 }

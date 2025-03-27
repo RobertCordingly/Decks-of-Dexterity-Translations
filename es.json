@@ -4446,5 +4446,12 @@
     "%1% to Continue...": "%1% para continuar...",
 
     "EXCHANGE": "INTERCAMBIO",
-    "NEGOTIATE": "NEGOCIAR"
+    "NEGOTIATE": "NEGOCIAR",
+
+    "%1%\\nfor more info!": "%1%\\npara más información!",
+    "%1%\\nfor more info.": "%1%\\npara más información.",
+    "%1% on a card in\\nhand to use.": "%1% sobre una carta en\\nmano para usarla.",
+    "%1% for more details.": "%1% para más detalles.",
+    "%1% to Inspect this!": "%1% para inspeccionar esto!"
+
 }
