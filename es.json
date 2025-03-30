@@ -4487,7 +4487,7 @@
     "if (is_even(X)) then:": "si (es_par(X)) entonces:",
     "Pick a card, it will be played if X is even.": "Elige una carta; se jugará si X es par.",
     "Destroy bullets.\\n%1%": "Destruye balas.\\n%1%",
-    "When burnt, burn the previous burn twice:\n%1%": "Al quemarse, quema la quemadura anterior dos veces:\n%1%",
+    "When burnt, burn the previous burn twice:\\n%1%": "Al quemarse, quema la quemadura anterior dos veces:\\n%1%",
     "%1% during your turn to scan enemies or skip turns.": "%1% durante tu turno para escanear enemigos o saltar turnos.",
 
     "Unleash your full potential.": "Libera todo tu potencial.",

@@ -4484,7 +4484,7 @@
     "if (is_even(X)) then:": "if (is_even(X)) then:",
     "Pick a card, it will be played if X is even.": "Pick a card, it will be played if X is even.",
     "Destroy bullets.\\n%1%": "Destroy bullets.\\n%1%",
-    "When burnt, burn the previous burn twice:\n%1%": "When burnt, burn the previous burn twice:\n%1%",
+    "When burnt, burn the previous burn twice:\\n%1%": "When burnt, burn the previous burn twice:\\n%1%",
     "%1% during your turn to scan enemies or skip turns.": "%1% during your turn to scan enemies or skip turns.",
 
     "Unleash your full potential.": "Unleash your full potential.",
