@@ -982,7 +982,7 @@
     "Set the variable Y to the FP value of this card.": "Establece la variable Y en el valor PF de esta carta.",
     "Assign the variable Y to the FP value of this card.": "Asigna la variable Y al valor de PF de esta carta.",
     "TOXIC RATS!": "¡RATAS TÓXICAS!",
-    "When drawn, -100 HP and gain TOXIC RATS.\\nWhen burnt, +100 HP.": "Al robarla, -100 PV y obtén RATAS TÓXICAS.\\nAl quemarla, +100 PV.",
+    "When drawn, -100 HP and gain TOXIC RATS.\\nWhen burnt, +100 HP.": "Al robarla, -100 PV y obtén RATAS TÓXICAS.\\nAl quemarla, +100 PV.\\nCombustible",
     "RATS RATS RATS! They'll infest your deck. These RATS poison you, burn them to restore your health!": "¡RATAS RATAS RATAS! Infestarán tu mazo. Estas RATAS te envenenan, ¡quémalas para recuperar tu salud!",
     "Fire homing bullets for 5 seconds.": "Dispara balas rastreadoras durante 5 segundos.",
     "BLASTING": "EXPLOTANDO",
@@ -2167,6 +2167,7 @@
     "Sabotage up to %1% bullets.\\nFragile": "Sabotea hasta %1% balas.\\nFrágil",
     "Patience": "Paciencia",
     "For the next %1% seconds, gain +7% CHC each second.": "Durante los próximos %1% segundos, obtén +7% PGC cada segundo.",
+    "For the next %1% seconds, gain +14% CHC each second.": "Durante los próximos %1% segundos, obtén +14% PGC cada segundo.",
     "For the next 5 seconds of game time (does not include time while paused) gain +7% critical hit chance (CHC) each second (+14% for Patience++). Fusion Points (FP) increase the number of seconds this effect lasts for at a rate of 1 second per FP.": "Durante los próximos 5 segundos de tiempo de juego (sin contar el tiempo en pausa) obtén +7% de probabilidad de golpe crítico (PGC) cada segundo (+14% para Paciencia++). Los Puntos de Fusión (PF) aumentan la duración de este efecto en 1 segundo por PF.",
     "Perfect Shot": "Disparo Perfecto",
     "Your next attack has a 100% chance to critical.": "Tu próximo ataque tiene una probabilidad de crítico del 100%.",
@@ -4138,9 +4139,9 @@
     "Get below 10% maximum HP.": "Baja por debajo de 10% de tus PV máximos.",
     "Get below 10% maximum HP to complete this challenge. Triggered when taking damage or at the start of your turn.": "Baja por debajo de 10% de tus PV máximos para completar este desafío. Se activa al recibir daño o al inicio de tu turno.",
     "Priest's Quest": "Misión del Sacerdote",
-    "Visit the Priest with over 75%% HP.\\n(%1%)": "Visita al Sacerdote con más del 75% de PV.\\n(%1%)",
+    "Visit the Priest with over 75% HP.\\n(%1%)": "Visita al Sacerdote con más del 75% de PV.\\n(%1%)",
     "Heal above 75% HP to prove yourself worthy of the Priest.": "Cura por encima del 75% de PV para demostrar que eres digno del Sacerdote.",
-    "Visit the Priest with less than 25%% HP.\\n(%1%)": "Visita al Sacerdote con menos del 25% de PV.\\n(%1%)",
+    "Visit the Priest with less than 25% HP.\\n(%1%)": "Visita al Sacerdote con menos del 25% de PV.\\n(%1%)",
     "Sacrifice your health to satisfy the Priest.": "Sacrifica tu salud para satisfacer al Sacerdote.",
     "Bonfire": "Hoguera",
     "Accumulate 20+ Burns.": "Acumula 20+ Llamaradas.",
@@ -4504,6 +4505,9 @@
     "Can you find the keys to escape this puzzle?": "¿Puedes encontrar las llaves para escapar de este rompecabezas?",
     "Find keys in unorthodox ways. Find 3 to finish, find 5 bonus loot.": "Encuentra llaves de formas poco convencionales. Encuentra 3 para terminar, encuentra 5 para obtener botín adicional.",
     "Find the keys to escape...": "Encuentra las llaves para escapar...",
-    "Charge the Decompiler and break open a briefcase to Unlock.": "Carga el Descompilador y fuerza un maletín para desbloquear."
+    "Charge the Decompiler and break open a briefcase to Unlock.": "Carga el Descompilador y fuerza un maletín para desbloquear.",
+
+    "%1% SECONDS OF IMMUNITY REMAINING! -- ATTACKS CORRUPT!!": "¡QUEDAN %1% SEGUNDOS DE INMUNIDAD! -- ¡¡LOS ATAQUES CORROMPEN!!"
+    
 
 }

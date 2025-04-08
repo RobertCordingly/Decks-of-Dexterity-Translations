@@ -136,7 +136,6 @@
     "When drawn, give the other cards in your hand +%1% PF.": "Quando comprada, conceda às outras cartas na sua mão +%1% PF.",
     "This card has no effect when played. This card increases the Fusion Points (PF) by 1 + PF of every other card in your hand whenever this is drawn.": "Esta carta não tem efeito quando jogada. Ela aumenta em 1 + PF os Pontos de Fusão (PF) de todas as outras cartas da sua mão sempre que for comprada.",
     "\\nFire twice as many energy beams.": "\\nDispare o dobro de feixes de energia.",
-    "For the next %1% seconds, gain +14% CHC each second.": "Pelos próximos %1% segundos, receba +14% CHC por segundo.",
     "Perpetuity": "Perpetuidade",
     "When burnt, choose a card and add it to your Pocket.\\nFlare": "Quando queimada, escolha uma carta e adicione-a ao seu Bolso.\\nExaltação",
     "Perpetuity - Choose a card to add to your Pocket:": "Perpetuidade - Escolha uma carta para adicionar ao seu Bolso:",
@@ -1184,6 +1183,7 @@
     "Sabotage up to %1% bullets.\\nFragile": "Sabote até %1% projéteis.\\nFrágil",
     "Patience": "Paciência",
     "For the next %1% seconds, gain +7% CHC each second.": "Pelos próximos %1% segundos, receba +7% CHC a cada segundo.",
+    "For the next %1% seconds, gain +14% CHC each second.": "Pelos próximos %1% segundos, receba +14% CHC a cada segundo.",
     "For the next 5 seconds of game time (does not include time while paused) gain +7% critical hit chance (CHC) each second (+14% for Patience++). Fusion Points (PF) increase the number of seconds this effect lasts for at a rate of 1 second per PF.": "Pelos próximos 5 segundos de tempo de jogo (não inclui tempo pausado), receba +7% de chance de acerto crítico (CHC) a cada segundo (+14% para Paciência++). Pontos de Fusão (PF) aumentam em 1 segundo por PF a duração desse efeito.",
     "Perfect Shot": "Tiro Perfeito",
     "Your next attack has a 100% chance to critical.": "Seu próximo ataque terá 100% de chance de crítico.",
@@ -2395,7 +2395,7 @@
     "Set the variable Y to the PF value of this card.": "Defina a variável Y como o valor de PF desta carta.",
     "Assign the variable Y to the PF value of this card.": "Atribua o valor de PF desta carta à variável Y.",
     "TOXIC RATS!": "RATOS TÓXICOS!",
-    "When drawn, -100 HP and gain TOXIC RATS.\\nWhen burnt, +100 HP.": "Quando comprada, -100 HP e obtenha RATOS TÓXICOS.\\nQuando queimada, +100 HP.",
+    "When drawn, -100 HP and gain TOXIC RATS.\\nWhen burnt, +100 HP.": "Quando comprada, -100 HP e obtenha RATOS TÓXICOS.\\nQuando queimada, +100 HP.\\nIncendiar",
     "RATS RATS RATS! They'll infest your deck. These RATS poison you, burn them to restore your health!": "RATOS RATOS RATOS! Eles infestarão seu deck. Esses RATOS o envenenam; queime-os para recuperar sua vida!",
     "Fire homing bullets for 5 seconds.": "Dispare projéteis teleguiados por 5 segundos.",
     "BLASTING": "EXPLODINDO",
@@ -4502,7 +4502,9 @@
     "Can you find the keys to escape this puzzle?": "Você consegue encontrar as chaves para escapar deste quebra-cabeça?",
     "Find keys in unorthodox ways. Find 3 to finish, find 5 bonus loot.": "Encontre chaves de maneiras não convencionais. Encontre 3 para concluir, 5 para obter recompensas bônus.",
     "Find the keys to escape...": "Encontre as chaves para escapar...",
-    "Charge the Decompiler and break open a briefcase to Unlock.": "Carregue o Descompilador e arrombe uma maleta para desbloquear."
+    "Charge the Decompiler and break open a briefcase to Unlock.": "Carregue o Descompilador e arrombe uma maleta para desbloquear.",
+
+    "%1% SECONDS OF IMMUNITY REMAINING! -- ATTACKS CORRUPT!!": "FALTAM %1% SEGUNDOS DE IMUNIDADE! -- ATAQUES CORROMPEM!!"
 
 
 }
