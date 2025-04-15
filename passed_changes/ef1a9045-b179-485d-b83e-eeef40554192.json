@@ -1,0 +1,17 @@
+{
+  "language": "es",
+  "edits": {
+    "Tinder": "Ascuas",
+    "When burnt,\\ngain +%1% Burns.\\nFlare.": "Al quemarse,\\nobtén +%1% Llamaradas.\\nInflamable.",
+    "Spire Jump": "Salto Espiral Ninja",
+    "Hello! Welcome to Decks of Dexterity!\\n%1% to advance dialog.": "¡Hola! ¡Bienvenido a Decks of Dexterity!\\nHaz %1% para avanzar el diálogo.",
+    "Before we get into the game, I wanted to let you know that this game is still under development!": "Antes de empezar, quería avisarte de que este juego aún está en desarrollo.",
+    "Even though I sound like a villager, I have something really important to tell you.": "Aunque suene como un aldeano génerico, tengo algo realmente importante que decirte.",
+    "If you would like to try...": "¿Te gustaría probar...",
+    "That is really it. If you enjoy this demo, or find a bug, join the Discord server on the main menu!": "Y eso sería todo. Si disfrutas de esta demo o encuentras un bug, únete al servidor de Discord en el menú principal.",
+    "Enemy turn attack!": "¡Turno de ataque enemigo!",
+    "Teleport to it!": "¡Apunta y teletranspórtate!",
+    "Play a Card:": "Juega una Carta:",
+    "Every card you drawn next turn will be given 2 bonus Fusion Points (FP) when they are drawn (+10 FP for Overflow++). Fusion Points given to this card will be carried over to your next hand.": "Cada carta que robes el siguiente turno obtendrá 2 Puntos de Fusión (PF) adicionales (+10 PF para Sobrecarga++). Los PF que otorgues a esta carta se transferirán a tu siguiente mano."
+  }
+}

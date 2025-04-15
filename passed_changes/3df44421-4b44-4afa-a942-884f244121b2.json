@@ -1,0 +1,11 @@
+{
+  "language": "brpt",
+  "edits": {
+    "Throw a spear that deals 37-62 damage. The spear will stick into enemies hit. Move near the spear to pull it out of the enemy, which deals 75-125 damage and starts your turn. You can pull more than one spear out at a time. Fusion Points (PF) increase the initial hit damage.": "Arremesse uma lança que causa de 37-62 de dano. Ela ficará presa nos inimigos atingidos. Mova-se próximo à lança para retirá-la do inimigo, causando de 75-125 de dano e iniciando seu turno. Você pode puxar mais de uma lança de uma vez. Pontos de Fusão (PF) aumentam o dano inicial.",
+    "Tier 1 Enemy": "Inimigo Grau 1",
+    "Get inside the inner ring of the enemy to deal massive damage!": "Entre no anel interno do inimigo para causar dano massivo! Lá ele.",
+    "Nuts and bolts to repair the robot.": "Porcas e parafusos para consertar o robô.",
+    "Eventually everything will become corrupt and be forgotten in this endless expanse of space.": "Eventualmente, tudo se corromperá e será esquecido nesta extensão infinita de espaço.",
+    "Dear traveler,\\n\\nI have had a sighting of the future and must warn you that there are immense challenges that await you.\\n\\nThe spirits have blessed you with fortune and will grant you wishes to aid in your journey...\\n\\nGood luck...": "Prezado viajante,\\n\\nTer vislumbrado o porvir cumpre-me adverti-lo: grandes provações vos aguardam.\\n\\nOs espíritos, na sua graça, haver-vos abençoado com sorte benigna, outorgando-vos dons para que vossa jornada se cumpra...\\n\\nQue a fortuna vos assista..."
+  }
+}

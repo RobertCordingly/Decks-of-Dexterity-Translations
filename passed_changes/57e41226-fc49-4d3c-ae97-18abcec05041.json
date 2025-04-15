@@ -1,0 +1,29 @@
+{
+  "language": "es",
+  "edits": {
+    "Hex is a permanent currency that can be spent in a variety of ways. Hex is earned by completing challenges and defeating bosses.": "Hex es una moneda permanente que puede gastarse de varias formas. Se obtiene al completar desafíos y derrotar jefes.",
+    "\\nSearch the Southern Void for another person...": "\\nBusca a otra persona por el Sur del Vacío...",
+    "Kill the marked enemies, or everyone!": "¡Mata a los enemigos marcados, o a todos!",
+    "When this is burnt, teleport after this turn. This card has no effect when played and is not effected by Fusion Points (FP).": "Al quemarse, teletranspórtate después de este turno. Esta carta no tiene efecto cuando se juega y no se ve afectada por los Puntos de Fusión (FP).",
+    "FIND: Buscadores de Calor": "REPLACE: Rastreadores de Calor",
+    "Teleport to a random power cell.": "Teletranspórtate a un nodo aleatorio.",
+    "Create 3 Plasma Beams (7 Beams for Arc++). Plasma Beams are short range beams that shoot bullets around you and do not require Energy. After creating the beams, teleport to a random power cell.": "Crea 3 Rayos de Plasma (7 Rayos para Arco++). Los Rayos de Plasma son de corto alcance, disparan balas alrededor y no requieren Energía. Después de crearlos, te teletransportas a un nodo aleatorio.",
+    "This card will teleport you to a random power cell. This card is not affected by Fusion Points (FP) or the Snake Eyes card.": "Esta carta te teletransporta a un nodo aleatorio. No se ve afectada por los Puntos de Fusión (PF) ni por la carta Ojos de Serpiente.",
+    "Atom Smasher": "Explosión Atómica",
+    "When burnt, +2 COMBO.": "Al quemarse, +2 COMBO.",
+    "When burnt, burn other cards.\\n+2 FP for each other card burnt.": "Al quemarse, quema otras cartas.\\n+2 PF por cada otra carta quemada.",
+    "FIND: Al ser quemada": "REPLACE: Al quemarse",
+    "Blade Stance": "Danza de Espadas",
+    "For the next %1% seconds deal double damage. -%2% HP.": "Durante los próximos %1% segundos inflige el doble de daño. -%2% PV.",
+    "Plant %1% claymores that explode when an enemy passes over.": "Coloca %1% minas que explotan cuando un enemigo pasa sobre ellas.",
+    "Claymores": "Minas",
+    "Shut Down": "Inhibición",
+    "One Chance": "Ultimátum",
+    "Playground Pass": "Pase de Juego Libre",
+    "Grants access to the playground.": "Concede acceso al modo de Juego Libre.",
+    "Join Discord or\\nUnlock Game": "Únete a Discord o Desbloquea el Juego",
+    "Radioactivity unlocked!": "¡Campaña Radioactividad desbloqueada!",
+    "\\nReminds you of how stupid you are.": "\\nTe hace recordar lo tonto que eres.",
+    "FIND: Bono": "REPLACE: Bonus"
+  }
+}
