@@ -1299,6 +1299,7 @@
     "chc": "pgc",
     "CHC: Critical\\nHit Chance: %1%%": "PGC: Probabilidad\\nde Golpe Crítico: %1%%",
     "fp": "pf",
+    "fusion point": "puntos de fusión",
     "FP: Fusion Points\\nincrease card power.": "PF: Puntos de Fusión\\naumentan el poder de las cartas.",
     "Fusion Buff": "Beneficio de Fusión",
     "spark": "chispa",
