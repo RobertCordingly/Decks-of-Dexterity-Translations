@@ -88,7 +88,7 @@ import time
 
 def main() -> None:
 
-    print("Sleeping for 2 hours")
+    print("Sleeping for 2")
     time.sleep(60 * 60 * 2)
 
     for language in ["Simplified Chinese", "Japanese", "Polish", "Swedish", "Korean", "Ukrainian", "Dutch", "Turkish", "Vietnamese"]:
