@@ -4497,5 +4497,19 @@
     "Find keys in unorthodox ways. Find 3 to finish, find 5 bonus loot.": "Encontre chaves de maneiras não convencionais. Encontre 3 para concluir, 5 para obter recompensas bônus.",
     "Find the keys to escape...": "Encontre as chaves para escapar...",
     "Charge the Decompiler and break open a briefcase to Unlock.": "Carregue o Descompilador e arrombe uma maleta para desbloquear.",
-    "%1% SECONDS OF IMMUNITY REMAINING! -- ATTACKS CORRUPT!!": "FALTAM %1% SEGUNDOS DE IMUNIDADE! -- ATAQUES CORROMPEM!!"
+    "%1% SECONDS OF IMMUNITY REMAINING! -- ATTACKS CORRUPT!!": "FALTAM %1% SEGUNDOS DE IMUNIDADE! -- ATAQUES CORROMPEM!!",
+
+    "%1% Challenge Complete!": "%1% Challenge Complete!",
+    "Grants access to the campaign.": "Grants access to the campaign.",
+    "\nMax HP: -> \nMax HP: %1%" : "\nMax HP: -> \nMax HP: %1%",
+    "Gain a Card\n%1%": "Gain a Card\n%1%",
+    "Open Exchange?": "Open Exchange?",
+    "New runs may take up to 10 minutes to appear.": "New runs may take up to 10 minutes to appear.",
+    "Your Achievements": "Your Achievements",
+    "Select a card to view achievement metrics.": "Select a card to view achievement metrics.",
+    "Your last run is from an old version of the game and cannot be resumed. Sorry!": "Your last run is from an old version of the game and cannot be resumed. Sorry!",
+    "%1% MORE!": "%1% MORE!",
+    "Short Circuit": "Short Circuit",
+    "Language used for text throughout the game.": "Language used for text throughout the game."
+
 }
