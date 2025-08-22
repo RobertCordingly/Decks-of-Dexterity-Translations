@@ -8,7 +8,7 @@ from typing import Iterable, List
 
 # ---- CONFIGURABLE PATHS ----
 ROOT = Path("/Users/robertcordingly/Documents/Decks of Dexterity/DecksOfDexterity")
-TRANSLATIONS_JSON = Path("/Users/robertcordingly/Documents/Decks of Dexterity/Translations/Decks-of-Dexterity-Translations/es.json")
+TRANSLATIONS_JSON = Path("/Users/robertcordingly/Documents/Decks of Dexterity/Translations/Decks-of-Dexterity-Translations/vt.json")
 BACKUP_JSON = TRANSLATIONS_JSON.with_suffix(TRANSLATIONS_JSON.suffix + ".bak")
 PLACEHOLDER_VALUE = "MISSING TRANSLATION"
 # ----------------------------
