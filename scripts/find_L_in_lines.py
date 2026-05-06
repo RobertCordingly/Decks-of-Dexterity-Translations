@@ -176,6 +176,10 @@ def save_with_backup_append(json_path: Path, new_keys: List[str], placeholder: s
         append_entries_preserving_format(json_path, new_keys, placeholder)
         print(f"# Appended {len(new_keys)} new key(s) to: {json_path}")
 
+def find_extra_keys(translations: dict, gml_strings: List[str]) -> List[str]:
+    gml_set = set(gml_strings)
+    return [k for k in translations if k not in gml_set]
+
 def main():
     # 1) Gather all first-arg strings from L(...) across .gml files
     gml_strings = extract_strings_from_gml(ROOT)
@@ -187,6 +191,15 @@ def main():
     # 3) Determine missing keys (preserve discovery order)
     missing = [s for s in gml_strings if s not in existing_keys]
 
+    # 3b) Determine extra keys (in JSON but never used in game)
+    extra = find_extra_keys(translations, gml_strings)
+    if extra:
+        print(f"\n# Extra keys in JSON not found in any L() call ({len(extra)}):")
+        for k in extra:
+            print(f"#   {json.dumps(k)}")
+    else:
+        print("# No extra keys found — all JSON keys are referenced in game code.")
+
     # 4) Save back, appending only new keys at end (no reformatting)
     if missing:
         save_with_backup_append(TRANSLATIONS_JSON, missing, PLACEHOLDER_VALUE)
@@ -197,6 +210,7 @@ def main():
     print(f"# Discovered strings: {len(gml_strings)}")
     print(f"# Existing keys:      {len(existing_keys)}")
     print(f"# Added missing:      {len(missing)}")
+    print(f"# Extra keys:         {len(extra)}")
 
 if __name__ == "__main__":
     main()
