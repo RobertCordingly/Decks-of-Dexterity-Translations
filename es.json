@@ -5197,8 +5197,7 @@
     "When burnt, choose a card and burn all copies of it in your deck.": "Al quemarse, elige una carta y quema todas sus copias en tu mazo.",
     "When burnt, choose a card in hand to automatically burn every copy of in your deck. If the card has draw effects they will be skipped. Fusion Points (FP) have no effect on this card.": "Al quemarse, elige una carta en mano para quemar automáticamente todas sus copias en tu mazo. Si la carta tiene efectos de robo, serán omitidos. Los Puntos de Fusión (PF) no tienen efecto en esta carta.",
     "Inferno - Choose a card to burn every copy of:": "Infierno - Elige una carta para quemar cada copia de:",
-    "Sector -1/2 - Exception": "Sector -1/2 - Excepción"
-,
+    "Sector -1/2 - Exception": "Sector -1/2 - Excepción",
   "Type: Shadow\\nDamage: 0X\\nEffect: Shadow Bullets": "MISSING TRANSLATION",
   "Press a key...": "MISSING TRANSLATION",
   "Mod Manager": "MISSING TRANSLATION",
@@ -5454,14 +5453,5 @@
   "> The sound surrounds you, you can't tell which way it is coming from...": "MISSING TRANSLATION",
   "> You feel a sudden burst of energy...": "MISSING TRANSLATION",
   "> You think whatever you have been fighting has grown significantly stronger...": "MISSING TRANSLATION",
-  "Final Ruling": "MISSING TRANSLATION",
-  "The Arbitrator delivers its verdict and enters phase 2.": "MISSING TRANSLATION",
-  "Guilty Verdict": "MISSING TRANSLATION",
-  "When drawn, lose 1 burn this turn.": "MISSING TRANSLATION",
-  "The Arbitrator has found you guilty. Lose a burn when drawn.": "MISSING TRANSLATION",
-  "GUILTY!": "MISSING TRANSLATION",
-  "Add 5 Guilty Verdicts to your discard. Shuffle your deck and place all curses on top.": "MISSING TRANSLATION",
-  "A two-phase judge that floods your deck with Guilty Verdicts.": "MISSING TRANSLATION",
-  "Add 3 Guilty Verdicts to your discard pile.": "MISSING TRANSLATION",
-  "An enemy card that condemns the player with curse cards.": "MISSING TRANSLATION"
+  "Final Ruling": "MISSING TRANSLATION"
 }
